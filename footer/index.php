@@ -8,6 +8,9 @@
 
 this is smt new 
 
+I will add this one later 
+
+
 
 			<div id="footer">
 				<ul id="footer_menu">
