@@ -5,6 +5,10 @@
 	<link rel="stylesheet" href="f.css" type="text/css" />
 </head>
 <body>
+
+this is smt new 
+
+
 			<div id="footer">
 				<ul id="footer_menu">
 					<li class="home_button"><a href="#"> </a> </li>
